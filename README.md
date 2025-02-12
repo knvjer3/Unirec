@@ -1,10 +1,10 @@
 # Train
 
 ```python
-./unimp_task_finetune.sh
+./task_finetune.sh
 
 ```
 # Eval
 ```python
-./unimp_task_finetune_eval.sh
+./task_finetune_eval.sh
 ```
